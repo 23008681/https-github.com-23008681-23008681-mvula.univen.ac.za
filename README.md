@@ -12,7 +12,8 @@ NEMAVHOLA TT 24002891
 MGUNI DA     23014898
 MUKHUBU A    22020820
 MOKONYANE OP 24052889
-
+MATHOBO MS   24030700
+MUGERI R     23033568
 This code calculates a personal or business budget based on income and expenses. It provides a simple and effective way to track financial transactions and make informed decisions.
 
 
