@@ -19,11 +19,12 @@ This code calculates a personal or business budget based on income and expenses.
 
 Features
 
-- Calculates total income and expenses
-- Categorizes expenses (housing, transportation, grocery,and vehicle)
-- Provides budget summary and recommendations
-- Supports multiple budget scenarios
-- it also advices you and alerts you if you are running an overdraft or not
+We introduced a class named Finance that is reponsible for the Method Called CalculateExpenses which is later called on the the Subclass where Finance was Extended
+Calculates total income and expenses
+Categorizes expenses (housing, transportation, grocery,and vehicle)
+Provides budget summary and recommendations
+Supports multiple budget scenarios
+it also advices you and alerts you if you are running an overdraft or not
 
 
 
